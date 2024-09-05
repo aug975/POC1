@@ -5,7 +5,7 @@
 Este é um código simples HTML com CSS que demonstra as propriedades de Flexbox com demonstrações de código e dos resultados na própria página.
 
 ## Linguagem
-Este projeto utiliza um arquivo em HTML (index.html), um arquivo em CSS (styles.css) e imagens que são utilizadas pelo arquivo HTML. No repositório está também este arquivo explicativo em Markdown (README.md).
+Este projeto utiliza um arquivo em HTML (index.html), um arquivo em CSS (style.css) e imagens que são utilizadas pelo arquivo HTML. No repositório está também este arquivo explicativo em Markdown (README.md).
 
 ## Design
 O design do arquivo é simples para garantir que seja fácil de abrir e executar, e para fácil compreensão e demonstração dos itens relevantes. Os itens relevantes são marcados claramente na página.
