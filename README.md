@@ -1,7 +1,7 @@
 # POC 1: Flexbox
-## Um código que explica e ensina as propriedades principais de Flexbox em CSS.
+### Um código que explica e ensina as propriedades principais de Flexbox em CSS.
 
-### Descrição
+## Descrição
 Este é um código simples HTML com CSS que demonstra as propriedades de Flexbox com demonstrações de código e dos resultados na própria página.
 
 ## Linguagem
