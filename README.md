@@ -43,6 +43,7 @@ A opção inversa "wrap-reverse" funciona da mesma forma, mas joga para a linha 
 
 ### flex-flow
 Para organizar o código, podemos condensar as opções "flex-direction" e "flex-wrap" em uma única linha com a propriedade "flex-flow".
+
 ![image](flow2.png)
 
 ### justify-content
