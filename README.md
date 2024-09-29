@@ -11,6 +11,7 @@ Esta propriedade escolhida em um container fará seus conteúdos se organizarem 
 
 ### flex-direction
 Em um container com flex, podemos utilizar flex-direction para modificar a direção em que se organiza. O valor padrão é "row".
+
 ![image](flex_direction_row.png)
 
 Isto irá organizar os itens do container em uma linha.
